@@ -1,0 +1,14 @@
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400; /* negrito */
+  line-height: 1.5; /* espaçamento */
+}
+h1 {
+  font-family: "Open Sans", sans-serif;
+  text-align: center; /* alinhamento do texto */
+  text-decoration: underline; /* linha no texto */
+  margin: 45px auto 150px auto;
+  width: 15%;
+  border: 2px solid;
+}
